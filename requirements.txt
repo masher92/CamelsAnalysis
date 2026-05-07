@@ -7,3 +7,4 @@ contextily
 pyproj
 fiona
 rtree
+sklearn
